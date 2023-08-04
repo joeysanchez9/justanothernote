@@ -1,6 +1,6 @@
 # 19 Progressive Web Applications (PWA): Text Editor
 
-## Your Task
+## Introduction
 
 As you have progressed through this course, you have put together a number of impressive projects that you can show off to potential employers. This project is no exception; in fact, it features some of the most impressive expressions of the concepts you have learned so far.
 
