@@ -1,7 +1,7 @@
 {
-  "name": "text-editor",
+  "name": "justanothernote",
   "version": "1.0.0",
-  "description": "Just another note allows a user input and create notes, even without internet access.",
+  "description": "Just another note allows a user to create and edit notes even without internet connection.",
   "main": "server.js",
   "scripts": {
     "start:dev": "concurrently \"cd server && npm run server\" \"cd client && npm run dev\"",
